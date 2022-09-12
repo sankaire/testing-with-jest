@@ -7,7 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "dev": "ts-node-dev --poll src/index.ts",
+    "dev": "ts-node-dev --poll src/server.ts",
     "test": "jest"
   },
   "dependencies": {
