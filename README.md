@@ -1,2 +1,2 @@
 # testing-with-jest
-Learning how to write test usin Jest
+Learning how to write test using Jest
